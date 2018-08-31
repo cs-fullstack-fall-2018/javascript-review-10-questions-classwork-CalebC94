@@ -12,7 +12,7 @@ An alert box that displays 'The answer to the ultimate question: 2112'  X
 
 An alert box that displays 'Undefined'
 
-An alert box that displays 'The answer to the ultimate question: {theAnswer}'
+An alert box that displays 'The answer to the ultimate question: {theAnswer}'	O
 
 
 <hr/>
@@ -40,7 +40,7 @@ slacker.goDoIt("Get a job!");
 
 * What will the result of the JavaScript code be?
 
-An alert box with an empty message
+An alert box with an empty message	O
 
 An alert box saying "Just go and Get a Job!"
 
@@ -97,7 +97,7 @@ The experimentWithTries() function in the following HTML page throws and catches
 Starting the process...  
 Error: Something went wrong
 The inner finally block  
-Error: Error: Something went wrong
+Error: Error: Something went wrong		O
 The outer finally block  
 Glad to be done!
 
